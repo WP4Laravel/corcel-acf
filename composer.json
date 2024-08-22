@@ -1,5 +1,5 @@
 {
-  "name": "tungpham42/corcel-acf",
+  "name": "wpvlaravel/corcel-acf",
   "description": "Advanced Custom Field (ACF) plugin for Corcel",
   "homepage": "http://github.com/corcel/acf",
   "license": "MIT",
@@ -8,6 +8,10 @@
       "name": "Junior Grossi",
       "email": "juniorgro@gmail.com",
       "homepage": "http://jgrossi.com"
+    },
+    {
+      "name": "Stephan de Bruin",
+      "email": "stephan.de.bruin@norday.nl"
     }
   ],
   "require": {
