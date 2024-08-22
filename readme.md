@@ -19,19 +19,12 @@ For more information about how Corcel works please visit [the repository](http:/
     - [Running Tests](#running-tests)
 * [Licence](#licence)
 
-# Version Compatibility
-
- Corcel    | Laravel  | PHP
-:----------|:---------|:----------
- `^4.0`    | 7.x      | `>=7.2`
- `^5.0`    | 8.x      | `>=7.3`
-
 # Installation
 
 To install the ACF plugin for Corcel is easy:
 
 ```
-composer require tungpham42/corcel-acf
+composer require WP4Laravel/corcel-acf
 ```
 
 Corcel is required for this plugin, but don't worry, if it's missing it will be installed as well.
